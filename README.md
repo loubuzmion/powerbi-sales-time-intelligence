@@ -6,7 +6,7 @@ An exploratory retail sales analytics project built in Power BI, featuring a cus
 ---
 
 ## Project Context & My Contribution
-This was a collaborative 3-person team project analyzing a multi-year retail transaction dataset (`MissionXLouExcelFile.xlsx`)[cite: 13, 14]. 
+This was a collaborative 3-person team project analyzing a multi-year retail transaction dataset (`MissionXLouExcelFile.xlsx`). 
 
 * **My Role & Contributions:** I independently designed and executed the **Time Intelligence Analysis** component of the project. This included building the relational Date dimension, writing advanced DAX time intelligence calculations (`TOTALYTD`, `SAMEPERIODLASTYEAR`, `PREVIOUSMONTH`), structuring monthly/yearly performance dashboards, and presenting key operational recommendations.
 
