@@ -1,19 +1,19 @@
-# powerbi-sales-time-intelligence
-# Power BI Sales & Time Intelligence Analysis
+# 📊 Power BI Time Intelligence Analysis
 
-An exploratory retail sales analytics project built in Power BI, featuring a custom relational Date table, advanced DAX time intelligence measures, and multi-year trend forecasting (2015–2018).
-
----
-
-## Project Context & My Contribution
-This was a collaborative 3-person team project analyzing a multi-year retail transaction dataset (`MissionXLouExcelFile.xlsx`). 
-
-* **My Role & Contributions:** I independently designed and executed the **Time Intelligence Analysis** component of the project. This included building the relational Date dimension, writing advanced DAX time intelligence calculations (`TOTALYTD`, `SAMEPERIODLASTYEAR`, `PREVIOUSMONTH`), structuring monthly/yearly performance dashboards, and presenting key operational recommendations.
+Welcome to the **Time Intelligence Analysis** repository for our group project. This project showcases advanced Power BI modeling, custom DAX time intelligence measures, and interactive data visualizations designed to track business performance and growth trends over time.
 
 ---
 
-## Data Model & Relational Architecture
-To enable time intelligence calculations in Power BI, raw transactional data must connect to a continuous calendar dimension:
-1. **Custom Date Table Creation (DAX):** 
-   ```dax
-   Date = CALENDAR(MIN(Sales[InvoiceDate]), MAX(Sales[InvoiceDate]))
+## 🚀 Project Overview
+Time intelligence functions in Power BI allow us to compare and calculate data over historical periods—such as Year-to-Date (YTD), Same Period Last Year (SPLY), and Rolling Averages. This dashboard helps stakeholders identify seasonal trends, monitor growth trajectories, and evaluate performance against historical baselines.
+
+---
+
+## 🛠️ Features & Technical Implementation
+
+* **Dedicated Calendar Table:** A continuous, marked Date table linked to fact tables to ensure accurate time-based aggregations without date gaps.
+* **Advanced DAX Measures:** 
+  * `TOTALYTD` / `TOTALMTD` for cumulative period tracking.
+  * `SAMEPERIODLASTYEAR` for year-over-year comparisons.
+  * Custom percentage variance calculations for growth tracking.
+* **Interactive Visuals:** Line charts for trend analysis, matrix tables for detailed breakdowns, and dynamic KPI cards with conditional formatting.
