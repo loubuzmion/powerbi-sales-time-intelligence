@@ -1,4 +1,4 @@
-![Time Intelligence Analysis](house-price-prediction.jpg)
+![Time Intelligence Analysis](time-intelligence.jpg)
 # Time Intelligence Analysis with DAX: Monthly & Year-to-Date Sales Growth (2015–2018)
 
 A time intelligence analysis of four years of sales (2015–2018) using **DAX measures in Power BI**. The report tracks how sales change month-to-month and year-to-date, finds the best and worst years, and checks for seasonal patterns.
