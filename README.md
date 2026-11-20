@@ -1,6 +1,6 @@
 # Power BI Time Intelligence Analysis
 
-Welcome to the **Time Intelligence Analysis** repository for our group project. This project showcases advanced Power BI modeling, custom DAX time intelligence measures, and interactive data visualizations designed to track business performance and growth trends over time.
+Welcome to the **Time Intelligence Analysis** repository for our 3-person group project. This project showcases advanced Power BI modeling, custom DAX time intelligence measures, and interactive data visualizations designed to track business performance and growth trends over time.
 
 ---
 
@@ -9,11 +9,19 @@ Time intelligence functions in Power BI allow us to compare and calculate data o
 
 ---
 
+## My Role & Contributions
+As part of a **3-person analytics team**, my primary responsibility was leading the **Time Intelligence Analysis**, which included:
+- Designing and configuring the continuous Date/Calendar table and data model relationships to support accurate time-based calculations.
+- Writing and validating custom DAX measures (YTD, MTD, SPLY, and YoY % growth) to evaluate historical performance.
+- Building the time-trend visualizations and KPI cards to highlight seasonal shifts and growth trajectories.
+
+---
+
 ## Features & Technical Implementation
 
-* **Dedicated Calendar Table:** A continuous, marked Date table linked to fact tables to ensure accurate time-based aggregations without date gaps.
-* **Advanced DAX Measures:** 
-  * `TOTALYTD` / `TOTALMTD` for cumulative period tracking.
-  * `SAMEPERIODLASTYEAR` for year-over-year comparisons.
-  * Custom percentage variance calculations for growth tracking.
-* **Interactive Visuals:** Line charts for trend analysis, matrix tables for detailed breakdowns, and dynamic KPI cards with conditional formatting.
+- **Dedicated Calendar Table:** A continuous, marked Date table linked to fact tables to ensure accurate time-based aggregations without date gaps.
+- **Advanced DAX Measures:** 
+  - `TOTALYTD` / `TOTALMTD` for cumulative period tracking.
+  - `SAMEPERIODLASTYEAR` for year-over-year comparisons.
+  - Custom percentage variance calculations for growth tracking.
+- **Interactive Visuals:** Line charts for trend analysis, matrix tables for detailed breakdowns, and dynamic KPI cards with conditional formatting.
