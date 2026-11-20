@@ -51,7 +51,7 @@ This was a **group project of 3 people**. My assigned task was the **Time Intell
 - The 2017 decline was visible all year: GrowthYTD was negative in every month, between −16% and −36%.
 
 > 📊 *Year summary tables (December row = full-year total):*
-> ![2015 monthly sales summary](images/2015_sales_summary.jpg)
+> ![2015 monthly sales summary](year2015Report.jpg)
 > ![2016 monthly sales summary](images/2016_sales_summary.jpg)
 > ![2017 monthly sales summary](images/2017_sales_summary.jpg)
 > ![2018 monthly sales summary](images/2018_sales_summary.jpg)
