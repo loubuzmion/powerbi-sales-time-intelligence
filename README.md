@@ -50,11 +50,15 @@ This was a **group project of 3 people**. My assigned task was the **Time Intell
 - **2018 ended slightly below 2015** (−$4,930, about −1.1%), and **28% below the 2016 peak**. The business has effectively lost all the growth it gained in 2016.
 - The 2017 decline was visible all year: GrowthYTD was negative in every month, between −16% and −36%.
 
-> 📊 *Year summary tables (December row = full-year total):*
-> ![2015 monthly sales summary](year2015Report.jpg)
-> ![2016 monthly sales summary](images/2016_sales_summary.jpg)
-> ![2017 monthly sales summary](images/2017_sales_summary.jpg)
-> ![2018 monthly sales summary](images/2018_sales_summary.jpg)
+📊 *Year summary tables (December row = full-year total):*
+### 2015
+![2015 monthly sales summary](year2015Report.jpg)
+### 2016
+![2016 monthly sales summary](year2016Report.jpg)
+### 2017
+![2017 monthly sales summary](year2017Report.jpg)
+### 2018
+![2018 monthly sales summary](year2018Report.jpg)
 
 ### 2. July: a consistent rise over June
 
@@ -73,11 +77,15 @@ Sales rose sharply from June to July in **every** year:
 - July's lead is narrow. October is a close second over four years ($219,206), and that is mainly because of the one-off October 2016 spike.
 - The July-over-June jump has **shrunk each year since 2016** (+178% → +71% → +23%).
 
-> 📊 *July highlighted in each year:*
-> ![July 2015](images/2015_july_highlight.jpg)
-> ![July 2016](images/2016_july_highlight.jpg)
-> ![July 2017](images/2017_july_highlight.jpg)
-> ![July 2018](images/2018_july_highlight.jpg)
+📊 *July highlighted in each year:*
+### _2015 - highlight_
+![July 2015](year2015ReportJuly.jpg)
+### _2016 - highlight_
+![July 2016](year2016ReportJuly.jpg)
+### _2017 - highlight_
+![July 2017](year2017ReportJuly.jpg)
+### _2018 - highlight_
+![July 2018](year2018ReportJuly.jpg)
 
 ### 3. Other observations
 - **October 2016 was the single biggest month at $114,071** (+121.5% vs September). It contributed a large part of 2016's strong result and deserves its own investigation.
@@ -111,9 +119,3 @@ Sales rose sharply from June to July in **every** year:
 ## Conclusion
 
 Sales peaked in 2016 at $598,594 (+37.43%), then fell 23.05% in 2017 and 6.51% in 2018, finishing slightly below 2015. July reliably beats June, which makes it a good month to plan promotions around, though it is not always the top month. The next steps are to fix the Infinity and Total-row issues in the DAX, add charts, and find the drivers behind the 2016 spike and the decline that followed.
-
-## Repository Contents
-
-- `README.md`: this summary
-- `images/`: Power BI table screenshots for each year
-- `Time_Intelligence_Analysis_Report.docx`: the full written report
