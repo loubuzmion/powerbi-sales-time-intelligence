@@ -5,7 +5,7 @@ A time intelligence analysis of four years of sales (2015–2018) using **DAX me
 
 ## Team & My Role
 
-This was a **group project of 3 people**. My assigned task was the **Time Intelligence analysis**: building the DAX measures, analysing monthly and year-to-date sales growth, and writing up the findings and recommendations in this report.
+This was a **group project of 3 people** (Francis, Reyna, Lou). My assigned task was the **Time Intelligence analysis**: building the DAX measures, analysing monthly and year-to-date sales growth, and writing up the findings and recommendations in this report.
 
 ## Project Overview
 
